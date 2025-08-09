@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I'm Mahak
 
 <!--
-**Mahak86/Mahak86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mahak86/Mahak86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently exploring **AI/ML projects** and preparing for **industry-ready certifications**  
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**, **Data Analytics**, and **Cloud Technologies**  
+- 👯 I’m looking to collaborate on **AI, NLP, Data Science, and Web Development projects**  
+- 🤔 I’m looking for guidance on **building impactful projects for my portfolio**  
+- 💬 Ask me about **Python, NLP, ERP Systems, Quantum Computing, and Data Analysis**  
+- 📫 How to reach me: **maheksayyad86@gmail.com**   
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: I believe tech + creativity can solve problems in the most unexpected ways!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
