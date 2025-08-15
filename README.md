@@ -51,7 +51,8 @@
 ## 📊 GitHub Stats
 ![Mahak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahak86&show_icons=true&theme=radical)
 
-![Mahak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahak86&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahak86&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Mahak86&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
