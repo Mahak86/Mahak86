@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I believe tech + creativity can solve problems in the most unexpected ways!  
 
 
-## 🌐 Socials
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahak-sayyad-962445229)
 
 ## 💻 Tech Stack
@@ -50,4 +50,8 @@
 
 ## 📊 GitHub Stats
 ![Mahak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahak86&show_icons=true&theme=radical)
+
+![Mahak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahak86&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahak86&layout=compact&theme=radical)
 
